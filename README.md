@@ -13,4 +13,5 @@ Some features of this flutter project are:
 * The projects list currently contains "Website for Kasturba Hospital" project further different projects can be added in this list.
 * Please note that there is still scope of work in the gallery UI section and the members list needs to be filled.
 * This work is part of my task phase for ADG :)
+
 -Aishwary
